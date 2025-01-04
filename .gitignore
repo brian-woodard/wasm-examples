@@ -1,0 +1,5 @@
+*.html
+*.wasm
+*.js
+main
+hello
