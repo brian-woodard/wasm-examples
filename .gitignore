@@ -1,6 +1,8 @@
 *.html
 *.wasm
 *.js
+*.data
+imgui.ini
 main
 hello
 *.o
